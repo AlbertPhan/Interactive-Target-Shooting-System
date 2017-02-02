@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.filters
+Target_Node/__vm/.Target_Node.vsarduino.h
+*.vcxproj
